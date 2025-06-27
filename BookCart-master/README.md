@@ -276,5 +276,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or support, please contact:
-- Email:21a31a1218@pragati.ac.in
-- GitHub: https://github.com/suryakumari31
+- Email:sandeepimandi9@gmail.com
+- GitHub: https://github.com/Sandeepimandi
