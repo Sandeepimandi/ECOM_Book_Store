@@ -202,7 +202,6 @@ BookCart is a full-stack e-commerce application for buying and selling books. It
    - Ensure proper network access
 
 ### Getting Help
-- Check the [Issues](https://github.com/yourusername/BookCart/issues) page
 - Create a new issue with:
   - Description of the problem
   - Steps to reproduce
